@@ -91,7 +91,7 @@ const ContactPage = () => {
         </form>
 
         <div className="text-center mt-10 space-y-3">
-          <a href="https://wa.me/919876543210" className="inline-block mt-2 bg-green-500 text-white px-5 py-2 rounded hover:bg-green-600">Message Us on WhatsApp</a>
+          <a href="https://wa.me/919307661898" className="inline-block mt-2 bg-green-500 text-white px-5 py-2 rounded hover:bg-green-600">Message Us on WhatsApp</a>
         </div>
       </section>
 
